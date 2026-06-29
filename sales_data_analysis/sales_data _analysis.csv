@@ -1,0 +1,19 @@
+Row Labels,Highest Revenue ,,Row Labels,Sum of Units Sold,,Product Name,Sum of Unit Price
+Electronics,34982.41,,Hanes ComfortSoft T-Shirt,10,,Peloton Bike,1895
+Home Appliances,18646.16,,The Catcher in the Rye by J.D. Salinger,7,,MacBook Pro 16-inch,2499.99
+Sports,14326.52,,Spalding NBA Street Basketball,6,,HP Spectre x360 Laptop,1599.99
+Clothing,8128.93,,Yeti Rambler Tumbler,6,,Canon EOS R5 Camera,3899.99
+Beauty Products,2621.9,,Gap Essential Crewneck T-Shirt,6,,Apple MacBook Pro 16-inch,2399
+Books,1861.93,,Nike Air Force 1,6,,Grand Total,12293.97
+Grand Total,80567.85,,Grand Total,41,,,
+,,,,,,,
+,,,,,,,
+Row Labels,Average of Unit Price,,Region,Total Sales,,Product Category,Total Revenue in %
+Electronics,691.59,,North America,36844.34,,Electronics,43.42%
+Home Appliances,320.19,,Asia,22455.45,,Home Appliances,23.14%
+Sports,261.28,,Europe,21268.06,,Sports,17.78%
+Clothing,67.54,,(blank),,,Clothing,10.09%
+Beauty Products,61.62,,Grand Total,80567.85,,Beauty Products,3.25%
+Books,16.15,,,,,Books,2.31%
+(blank),,,,,,(blank),0.00%
+Grand Total,236.4,,,,,Grand Total,100.00%
